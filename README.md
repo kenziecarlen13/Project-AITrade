@@ -125,5 +125,3 @@ Berdasarkan pengujian pada `Laporan_Tuning.xlsx`:
 
 **Proyek ini dibuat untuk tujuan edukasi akademis.
 Penulis tidak bertanggung jawab atas risiko finansial yang timbul dari penggunaan strategi ini pada live trading.**
-
-```
